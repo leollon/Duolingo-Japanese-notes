@@ -1,0 +1,24 @@
+い　➖＞　i
+に　ー＞　ni
+よ　ー＞　yo
+さ　ー＞　sa
+ち　➖＞　chi
+ん　ー＞　n
+な　ー＞　na
+ろ　➖＞　ro
+く　➖＞　ku
+う　ー＞　u
+お　ー＞　o
+は　ー＞ ha
+か　ー＞ ka
+し　ー＞ shi
+あ　ー＞ a
+え　ー＞ e
+
+words:
+
+おはよう　➖＞　good morning/morning
+はい　　　ー＞　yes
+あお　　　➖＞　blue
+しろ　　　➖＞　white
+あか　　　➖＞　red

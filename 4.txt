@@ -1,0 +1,22 @@
+ぺ　➖＞　pe
+ぷ　➖＞　pu
+ぱ　➖＞　pa
+ぽ　➖＞　po
+ぴ　➖＞　pi
+
+カ　➖＞　ka
+ア　➖＞　a
+リ　➖＞　ri
+メ　➖＞　me
+
+
+words:
+
+がっこう　➖＞　school(gakkowu)
+てんぷら　➖＞　tempura
+えんぴつ　➖＞　pencil
+きょう　　➖＞　today
+おちゃ　　➖＞　tea(ocha)
+
+きゅう　　➖＞　nine(kyuu)
+きっぷ　　➖＞　ticket(kippu)

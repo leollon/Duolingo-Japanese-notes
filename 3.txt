@@ -1,0 +1,45 @@
+を　➖＞　wo
+そ　➖＞　so
+へ　➖＞　he
+げ　➖＞　ge
+が　➖＞　ga
+ぐ　➖＞　gu
+ご　➖＞　go
+ぎ　➖＞　gi
+ざ　➖＞　za
+ぞ　➖＞　zo
+ず　➖＞　zu
+ぜ　➖＞　ze
+で　➖＞　de
+だ　➖＞　da
+づ　➖＞　du
+ぼ　➖＞　bo
+ば　➖＞　ba
+び　➖＞　bi
+べ　➖＞　be
+ぶ　➖＞　bu
+ど　➖＞　do
+
+じ　➖＞　ji
+
+
+words:
+
+いえ　　　➖＞　house
+へや　　　➖＞　room
+そと　　　➖＞　outside
+
+かぜ　　　➖＞　wind
+ちず　　　➖＞　map
+ぎんこう　➖＞　bank
+かばん　　➖＞　bag
+でんわ　　➖＞　telephone
+えもじ　　➖＞　Emoji
+
+くだもの　➖＞　fruits
+まんが　　➖＞　manga
+べんとん　➖＞　bento
+
+なっとう　➖＞　fermented soybeans(nattowu)
+あめりか　➖＞　The US
+アメリカ　➖＞　America

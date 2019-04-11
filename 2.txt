@@ -1,0 +1,59 @@
+み　➖＞　mi
+せ　➖＞　se
+め　➖＞　me
+ね　➖＞　ne
+れ　➖＞　re
+ぬ　➖＞　nu
+と　➖＞　to
+ふ　➖＞　fu
+ゆ　➖＞　yu
+つ　➖＞　tsu
+ひ　➖＞　hi
+も　➖＞　mo
+り　➖＞　ri
+こ　➖＞　ko
+き　➖＞　ki
+け　➖＞　ke
+る　➖＞　ru
+む　➖＞　mu
+や　➖＞　ya
+す　➖＞　su
+ら　➖＞　ra
+わ　➖＞　wa
+ほ　➖＞　ho
+ま　➖＞　ma
+た　➖＞　た
+て　➖＞　te
+は　➖＞　ha
+の　➖＞　no
+
+
+
+words:
+
+ふゆ　　➖＞　winter
+なつ　　➖＞　summer
+はれ　　➖＞　sunny
+くもり　➖＞　cloudy
+
+ひる　　➖＞　daytime
+よる　　➖＞　night
+
+いぬ　　➖＞　dog
+ねこ　　➖＞　cat
+とり　　➖＞　bird
+
+わたし　➖＞　I
+
+よむ　　➖＞　read
+のむ　　➖＞　drink
+すき　　➖＞　like
+きる　　➖＞　wear
+ほしい　➖＞　want
+
+せなか　➖＞　back
+みみ　　➖＞　ear
+め　　　➖＞　eye
+
+おさけ　➖＞　wine
+やさい　➖＞　vegetables
