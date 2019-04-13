@@ -45,11 +45,12 @@ words:
 
 わたし　➖＞　I
 
-よむ　　➖＞　read
-のむ　　➖＞　drink
-すき　　➖＞　like
-きる　　➖＞　wear
-ほしい　➖＞　want
+よむ　　　➖＞　read
+のむ　　　➖＞　drink
+すき　　　➖＞　like
+きる　　　➖＞　wear
+ほしい　　➖＞　want
+きたない　➖＞　dirty
 
 せなか　➖＞　back
 みみ　　➖＞　ear
