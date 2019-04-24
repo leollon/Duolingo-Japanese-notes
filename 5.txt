@@ -1,0 +1,74 @@
+ツ　ー＞　tsu
+ソ　ー＞　so
+ン　ー＞　n
+シ　ー＞　shi
+メ　ー＞　me
+ノ　ー＞　no
+ラ　ー＞　ra
+ア　ー＞　a
+キ　ー＞　ki
+ス　ー＞　su
+イ　ー＞　i
+ハ　ー＞　ha
+サ　ー＞　sa
+ド　ー＞　do
+ヨ　ー＞　yo
+カ　ー＞　ka
+マ　ー＞　ma
+リ　ー＞　ri
+ロ　ー＞　ro
+
+
+words:
+
+がっこう　　ー＞　school(pronouciation gakkou, type gakkou)
+ちゅうごく　ー＞　China(pronouciation chugoku, type chuugoku)
+にほん　　　ー＞　Japan
+アメリカ　　ー＞　The US
+イギリス　　ー＞　The UK
+
+なまえ　　　ー＞　name
+名前　　　　ー＞　name
+
+どうも　　　ー＞　thanks
+じん　　　　ー＞　person
+人　　　　　ー＞　person
+くもり　　　ー＞　cloudy
+
+たなか　　　ー＞　tanaka
+
+りゅうがくせ　➖＞　留学生(pronouciation ryugase, type ryuugakuse)
+
+ほん（本）
+
+greetings:
+
+ツヨンさんはアメリカ人です　ー＞　Mr John is an American.
+
+はじめまして、たなかといいます　ー＞　Nice to meet u, my name is tanaka.
+
+イギリスしゅしんです　　　ー＞　　I am from The UK.
+
+アメリカしゅしんです　　　ー＞　　I am from The US.
+
+アメリカ人です　　　　　ー＞　I am a American.
+
+イギリス人です　　　ー＞　I am British.
+
+ツヨンです　　　ー＞　I am John.
+
+ごめんなさい　　ー＞　I am sorry.
+
+ごめんね　　　　ー＞　Sorry.
+
+おはよ　　　　ー＞　good morning.
+
+はい　　　　ー＞　yes
+
+どうもありがとう　　　ー＞　thank you very much.
+
+
+
+
+
+

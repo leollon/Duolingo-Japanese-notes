@@ -1,0 +1,48 @@
+hiragana       kanji           type
+ごご　　　　　　午後　　　　　　gogo
+
+ごぜん　　　　　午前　　　　　　gozen
+
+がっこう　　　　学校　　　　　　gakkou
+
+
+paragraph:
+
+午後六時に食べます。　ー＞　I eat at six P.M.
+
+いいえ、おきません。　ー＞　No, I will not get up.
+
+午後十一時にねます。　ー＞　I go to sleep at 11 P.M.
+
+午前七時におきます。　ー＞　I wake up at seven A.M.
+
+午前れい時　　　　　ー＞　Twelve A.M, 12 A.M
+
+午前れい時にねます。　ー＞　I go to sleep at 12 A.M.
+
+今は午前れい時です。 ー＞　It is 12 A.M right now
+
+午前八時半におきます。　ー＞　I get up at 8:30 A.M
+
+午後十時半ごろにねます。　➖＞　I go to sleep at around ten thirty P.M.
+
+午後六時に食べます。　ー＞　I　eat at six P.M.
+
+午後十一時にねます。　ー＞　I go to sleep at 11 P.M.
+
+午前七時におきます。　ー＞　I wake up at seven A.M.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

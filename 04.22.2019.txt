@@ -1,0 +1,17 @@
+hiragana     kanji     type
+じゅう        　十　　　　juu
+
+はん　　　　　半　　　　han
+
+
+今は八時十八分です。　ー＞　it is 8:18 now.
+
+九時半ちょうどです。　ー＞　it is exactly nine thirty.
+
+五時四十五分です　　ー＞　it is 5:45
+
+七時半です。　ー＞　it is seven thirty
+
+九時半ちょうどです。　ー＞　it is exactly nine thirty.
+
+
