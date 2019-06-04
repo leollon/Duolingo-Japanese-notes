@@ -1,0 +1,16 @@
+katagana             type          English
+ペット　               petto         pet
+
+ト　　　　　　　　　　to
+
+トイレ                 toire         toilet/bathroom
+
+レ　　　　　　　　　　re
+
+ル　　　　　　　　　　ru
+
+
+paragraph
+
+これはトイレですか？       Is this a toilet?
+

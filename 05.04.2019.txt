@@ -1,0 +1,32 @@
+katakana           hiragana        type
+テ　　　　　　　　　て　　　　　　　te
+フ　　　　　　　　　ふ　　　　　　　fu
+
+
+katakana 　　　　　　　　　　　　　　　　hiragana         English           type
+プール　　　　　　　　　　　　　　　       pool             puru
+テーブル　　　　　　　　　　　　　　　　　 table　　　　　　　　　　　　te ichi buru
+台所　　　　　　　　　　　だいどころ　　　　kitchen         
+部屋　　　　　　　　　　　へや　　　　　　 room            heya
+風呂                      おふろ           bathtub         ofuro
+
+
+
+午前七時おきます。　　I wake up at seven A.M.
+午前八時半におきます。　I wake up at eight thirty A.M.
+だいどころ。　　　　　　It is a kitchen.
+へやがあります。      There is a room.
+へやはどこですか？     Where is the room?
+だいどころがあります。   there is a kitchen.
+トイレがあります。        there is a toilet.
+へやです。                It is a room.
+おふろではありません。     It is not a bathtub.
+おふろはありません。      There is no bathtub.
+おふろはどこですか？     where is the bathtub?
+学校は日本にあります。  the school is in japan.
+
+
+
+
+
+

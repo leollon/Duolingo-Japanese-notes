@@ -1,0 +1,71 @@
+kanji             hiragana              English
+-----------------------------------------------
+私の姉　　　　　　わたしのあね　　　　　My elder sister
+
+私の兄　　　　　　わたしのあに　　　　　My older brother
+
+兄弟　　　　　　　きょうだい　　　　　　 brothers
+
+姉妹　　　　　　　しまい　　　　　　　　sisters
+
+彼女　　　　　　　かのじょ　　　　　　　she/her
+
+かれ　　　　　　　かれ　　　　　　　　　he/his
+
+妹　　　　　　　　いもうと　　　　　　　younger sister
+
+弟　　　　　　　　おとうと　　　　　　　younger brother
+
+-------------------------------------------------------
+
+hiragana          romaji              English
+
+しゅっしん　　　　　shusshin　　　　　　　      from 
+
+
+
+
+かのじょはわたしのあねです。　　　　　　　　She is my older sister.
+
+かのじょはだれですか？　　　　　　　　　　Who is she?
+
+かれ/かのじょの名前は何ですか？　　　　　　What is his/her name?
+
+彼は私の兄です。　　　　　　　　　　　　　He is my older brother.
+
+かれはだれですか？　　　　　　　　　　　　Who is he?
+
+私たちは姉妹です。　　　　　　　　　　　　We are sisters.
+
+かれのおにいさんは中学生です。　　　　　　His older brother is a middle shool stduent.
+
+かれらは兄弟です。　　　　　　　　　　　　They are brothers.
+
+彼女たちはしまいですか？　　　　　　　　　Are they sisters?
+
+かのじょたちはしまいです。　　　　　　　　　They　are sisters.
+
+わたしは（かれ/かのじょ）のおとうとです。　　　I am his/her younger brother.
+
+彼らは学生です。　　　　　　　　　　　　　They are students.
+
+かのじょのおねえさんは小学五年生です。　　　Her older brother is in fifth grader.
+
+かれはおにいさんがさんにんいます。　　　　　He has three older brothers.
+
+彼女はおねえさんが四人います。　　　　　　　She has four older sisters.
+
+すみません、あなたはだれですか？　　　　　　Excuse me, who are you?
+
+父と母はおおさかしゅっしんです。　　　　　　My father and mother are from osaka.
+
+父/母はきょうだいが八人います。　　　　　　　My father/mother has eight siblings.
+
+こども（子供）が六人います。　　　　　　　　I have six children.
+
+あなたのこどもはなにさいですか？　　　　　　How old is your child.
+
+ご両親はお元気ですか？　　　　　　　　　　How are your parents?
+
+ごりょうしんはどこですか？　　　　　　　　　　Where are your parents？
+

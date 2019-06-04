@@ -1,0 +1,33 @@
+kanji                     hiragana             English
+窓　　　　　　　　　　　　まど             　　　　 window
+庭　　　　　　　　　　　　にわ　　             yard
+家　　　　　　　　　　　　うち　　　　　　　　　house/home
+
+
+いえはどこですか？       where is the house?
+
+あそこにあります。        it is over there.
+
+いえはここです。         the house is here.
+
+まどはそこです。         the window is over there.
+
+にわはそこです。　　　　the yard is over there.
+
+トイレはあそこです。      the toilet/restroom is over there
+
+まどです。　　　　　　　It is a window.
+
+にわはどこですか？　　　where is the yard.
+
+まどはどこですか？      where is the window?
+
+ここはどこですか？      where is this place?
+
+ここにあります。　　　　 it is here.
+
+にわがあります。        there is a yard.
+
+いえです。             it is a house.
+
+

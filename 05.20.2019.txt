@@ -1,0 +1,30 @@
+kanji                   hiragana          type
+東京　　　　　　　　　　とうきょう　　　　　toukyou
+
+大坂　　　　　　　　　　おおさか　　　　　　oosaka
+
+京都　　　　　　　　　　きょうと　　　　　　kyouto
+
+
+いいえ、東京には住んでいません　　　　　　　　No, I do not live in Tokyo.
+
+とうきょうにすんでいます。                      I live in Tokyo.
+
+いいえ、大坂に住んでいません。                 No, I　do not live in Osaka.
+
+はじめまして、マリアともうします。　　　　　　　　Nice to meet you, my name is Maria.
+
+ジョンともうします。　　　　　　　　　　　　　　My name is John.
+
+よろしくね。　　　　　　　　　　　　　　　　　Nice to meet you.
+
+はい、そうです。　　　　　　　　　　　　　　　Yes, that is right.
+
+ジョンは外国人です。                         John is a foreigner.
+
+十六さいです。　　　　　　　　　　　　　　　I am sixteen years old.
+
+ちがいますよ。　　　　　　　　　　　　　　　That is not right, you know.
+
+そうですよね。　　　　　　　　　　　　　　　That is right, isn't it?
+

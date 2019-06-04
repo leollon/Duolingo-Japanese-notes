@@ -1,0 +1,43 @@
+高　　　　　　　こう　　　　　　　kou
+
+年　　　　　　　ねん　　　　　　　nenn
+
+金　　　　　　　きん　　　　　　　 kinn
+
+小学　　　　　　しょうがく          shougaku
+
+中学　　　　　　ちゅうがく　　　　　chuugaku
+
+大学　　　　　　だいがく　　　　　 daigaku
+
+高校　　　　　　こうこう　　　　　　koukou
+
+小学生たち　　　しゅうがくせいたち　　shougakuseitachi
+
+大学生たち　　　だいがくせいたち　　daigakuseitachi
+
+外国人　　　　　がいこくじん　　　　gaikokujinn
+
+
+何年生ですか？                　　　what grade are you in?
+
+小学四年生です。　　　　　　　　　I am a fourth grader.
+
+小学生です。　　　　　　　　　　　I am an elementary school student.
+
+中学生です。　　　　　　　　　　　I am an middle school student.
+
+高校生です　/　こうこうせいです。　　I am a high school student.
+
+大学生です。　　　　　　　　　　　I am a university student.
+
+わたしは小学生ではありあせん。　　　I am not an elemtary school student.
+
+中学生ですか？                　　　　Are you a middle school student?
+
+大学生ですか？                    Are you a university student?
+
+わたしは中学生ではありあせん。　　　I am not a　middle school student.
+
+わたしは高校に行きます。            I go to high school.
+

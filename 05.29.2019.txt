@@ -1,0 +1,63 @@
+kanji              hiragana       English                            romaji
+---------------------------------------------------------------------------
+子　　　　　　　　　こ　　　　　　 son
+母/お母さん　　     はは/おかさん   mother
+
+父/お父さん  　      ちち/おとうさん  father
+
+家族　　　　　　　 かぞく　　　　  family
+
+子供/子ども　　　　 こども　　      child
+
+妹　　　　　　　　　いもと　　　　younger sister
+
+両親　　　　　　　りょうしん　　　　parents                             ryoushinn
+
+子どもたち　　　　　こどもたち　    children
+
+元気　　　　　　　げんき　　　　　fine or good(healthy state)
+
+人　　　　　　　　にん　　　　　　person(as a unit)
+
+十人　　　　　　　じゅうにん　　　 ten persons
+
+
+
+
+
+すみません、あなたはだれですか。　　Excuse me, who are you?
+
+ごりょうしんはおげんきですか？　　　How are your parents?
+
+父も母もげんきです。　　　　　　　My fatther and mother are fine.
+
+母はきょうだいが十人います。　　　My mother has ten siblings.
+
+かぞくはいますか？　　　　　　　Do you have a family.
+
+おにいさん、おかえりなさい。　　　Big/Older brother, welcome back.
+
+ただいま、おねえさん。　　　　　 I'm back, big/older sister.
+
+じゃあ、行ってきます。　　　　　　Well then, I'm leaving/off.　　　　how to　type in hiragana: jyaa, ittekimasu.
+
+
+行ってらっしゃい。　　　　　　　take care.         How to type in hiragana: itterassyai.
+
+おかえりなさい、お父さん。　　　welcome back, Dad.
+
+お母さん、行ってきます。　　　　Mom, I'm off.
+
+お母さん、ただいます。　　　　　Mom, I'm back.
+
+お母さんはおげんきですか？　   How is your mother?
+
+いいえ、家族はいません。　　　　No, I do not have a family.
+
+ただいます。　　　　　　　　　I'm back.
+
+十九歳です/じゅうきゅさいです。　　I am nineteen years old.
+
+
+
+
