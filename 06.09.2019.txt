@@ -1,0 +1,26 @@
+hiragana              kanji            romaji
+だれ　　　　　　　　　誰　　　　　　　 dare
+あまい　　　　　　　   甘い　　　　　　amai
+やすい　　　　　　　　 安い　　　　　　yasui
+だれ　　　　　　　　　 誰　　　　　　 dare
+まん　　　　　　　　　 万　　　　　　　man
+せん　　　　　　　　　 千　　　　　　　senn
+ばん　　　　　　　　　 晩　　　　　　　bann
+ほんだしげる　　　　　　本田茂　　　　　honnda　shigeru
+
+
+
+
+
+誰ですか？　　　　　　　　　　　　　who are you?
+
+彼はトイレにいます。　　　　　　　　　 he is in the restroom.
+
+彼はどこに行きますか？　　　　　　　　where is he going?
+
+あれは誰ですか？　　　　　　　　　　 Who is that?
+
+彼女の名前はさくらです。　　　　　　　 her name is sakura.
+
+彼の名前は本田茂
+

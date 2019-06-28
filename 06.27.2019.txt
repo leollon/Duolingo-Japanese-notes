@@ -1,0 +1,35 @@
+kanji         hiragana　　　　　　romaji　　　　　　　　katakana              English
+
+万　　　　　　まん　　　　　　　　mann                                        ten thousand
+
+千　　　　　  せん                senn                                        one thousand
+
+晩　　　　　　ばん　　　　　　    bann
+
+誰　　　　　　だれ　　　　　　　　dare                                        who
+
+甘い　　　　　あまい　　　　　　　amai                                        sweet
+
+安い　　　　　やすい　　　　　　　yasui
+
+　　　　　　　ゆ　　　　　　　　　yu                    ユ
+
+　　　　　　　れすとらん          resutorann            レストラン            restauran
+
+              めにゅー　　　　　　menyu-                メニュー　　　　　　　menu
+
+会　　　　　　かい　　　　　　　　kai
+
+
+
+彼の名前は本田茂です。　　　　　　　　　　　　　　　His name is Shigeru Honda.
+
+これはメニューですか？　　　　　　　　　　　　　　　Is this a menu.
+
+レストランにテーブはいくつありますか？　　　　　　　How many desks are there in the restaurant?
+
+メニューをください。　　　　　　　　　　　　　　　　Can I get a menu.
+
+レストランはどこですか？　　　　　　　　　　　　　　Where is the restaurant？
+
+兄の名前は茂です。　　　　　　　　　　　　　　　　　My brother's name is Shigeru.

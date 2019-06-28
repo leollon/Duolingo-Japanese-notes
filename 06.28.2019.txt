@@ -1,0 +1,34 @@
+kanji             romaji                English
+
+お父さん　　　　　otousann              Father
+
+息子　　　　　　　musuko　　　　　　　　Son
+
+娘　　　　　　　　musume                daughter
+
+親戚　　　　　　　shinnseki             relatives
+
+桜　　　　　　　　sakura                cherry blossoms
+
+
+
+
+Where is your father?                          お父さんはどこですか？
+
+His mother is well/fine.                       彼のお母さんは元気です。
+
+Where is john's mother?                        ジョンのお母さんは誰ですか？
+
+My son's name is Shigeru.                      息子の名前は茂です。
+
+My daughter's name is Sakura.                  娘の名前はさくらです。
+
+John and Maria are relatives.　　　　　　　　　ジョンとマリアは親戚です。
+
+My son is three years old.　　　　　　　　　   （私の）息子は三歳です。
+
+Are you and she relatives?　　　　　　　　　　あなたと彼女は親戚ですか？
+
+She is not my relative.　　　　　　　　　　　 彼女は私の親戚ではありません。
+
+How old is your son?                          息子さんは何歳ですか？

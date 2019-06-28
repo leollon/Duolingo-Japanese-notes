@@ -1,0 +1,49 @@
+hiragana           kanji        katagana         romaji             English
+
+にわ　　　　　　   庭　　　　　　　　　 　　　　　　　　 niwa               yard
+
+まど　　　　　　　 窓　　　　　　　　　　　　　　mado                window
+
+とり　　　　　　　 鳥　　　　　　　　　　　　　　tori                bird
+
+ねこ　　　　　　　 猫　　　　　　　　　　　　　　neko                cat
+
+いぬ　　　　　　　 犬　　　　　　　　　　　　　　inu                 dog
+
+うま　　　　　　　 馬　　　　　　　　　　　　　　 wuma                horse
+
+にわ　　　　　　　二羽　　　　　　　　　　　　　 niwa                counter for birds
+
+いす　　　　　　　椅子　　　　　　　　　　　　　 isu                 chair
+
+つくえ　　　　　　机　　　　　　　　　　　　　　　tsukue              desk
+
+
+
+
+
+いいえ、ペットはいません。               No, There are not pets.        
+
+あそこにあります。                     It is over there.
+
+そこにあります。　　　　　　　　　　   It is there.
+
+トイレはあそこです。　　　　　　　　　　The restroom is over there.
+
+庭はどこですか？　　　　　　　　　　  Where is the garden?
+
+庭はあそこです。　　　　　　　　　　  The garden is over there.
+
+窓はあそこです。　　　　　　　　　　  The window is over there.
+
+鳥がに羽います。　　　　　　　　　　  There are two birds.
+
+猫です。　　　　　　　　　　　　　　  It is a cat.
+
+子猫です。　　　　　　　　　　　　　　It is a kitten.
+
+ご犬です。　　　　　　　　　　　　　　It is a puppy.
+
+あの、すみません、トイレはどこですか？　　 Where is the toilet.
+
+椅子はどこですか？　　　　　　　　　　Where is the chair?

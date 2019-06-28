@@ -6,6 +6,8 @@
 
 いぬ/ねこです。　　　　　　　It is a dog/cat.
 
+それはいぬ/ねこです。　　　　　　　It is a dog/cat.
+
 犬/ねこがいます。            There is a dog/cat.
 
 とりが七/二わいます。          There are seven/two birds.

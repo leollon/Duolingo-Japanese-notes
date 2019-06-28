@@ -1,0 +1,36 @@
+hiragana               kanji                romaji
+むすこ　　　　　　　　　息子　　　　　　　　 musuko
+
+しんせき　　　　　　　　親戚　　　　　　　　 shinnseki
+
+えいご　　　　　　　　　英語　　　　　　　　 eigo
+
+
+
+僕は彼の弟です。　　　　　　　　　　　I am his younger brother.
+
+兄が一人います。　　　　　　　　　　　I have one older brother.
+
+妹が七人います。　　　　　　　　　　　I have seven sisters.
+
+兄の名前は茂です。　　　　　　　　　　My older brother's name is shigeru.
+
+彼の弟は誰ですか？　　　　　　　　　　Who is his younger brother.
+
+彼は私の兄です。　　　　　　　　　　　He is my older brother.
+
+家族は何人いますか？　　　　　　　　　How many people are in your family？
+
+息子の名前は茂です。　　　　　　　　　My son's name is shigeru.
+
+彼女は私の親戚ではありません。　　　　 she is not my relative.
+
+ご両親は英語が話せますか？　　　　　　can your parents speak English?
+
+息子は三歳です。　　　　　　　　　　　My son is three years old.
+
+ジョンとマリアは親戚です。　　　　　　　John and Maria are relatives.
+
+あなたと彼女は親戚ですか？           Are you and her relatives?
+
+ご家族はお元気ですか？               How is you family?

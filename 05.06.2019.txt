@@ -8,6 +8,8 @@ kanji                     hiragana             English
 
 あそこにあります。        it is over there.
 
+あそこです。        it is over there.
+
 いえはここです。         the house is here.
 
 まどはそこです。         the window is over there.

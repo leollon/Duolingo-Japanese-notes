@@ -1,0 +1,14 @@
+hiragana          kanji            romaji           katakana
+だい　　　　　　　  台　　　　　　 dai
+ところ　　　　　　　 所　　　       tokoro
+しんしつ　　　　　   寝室　　　　　 bedroom
+いえ　　　　　　　　 家　      　　　　 house
+ここ　　　　　　　　　　　　　　    here
+ど　　　　　　　　　　　　　　　　　　　　　　　　  ド
+
+
+
+ここにあります　　　　　　　　　　It is　over here.
+寝室です。　　　　　　　　　　　 It is a bedroom.
+
+

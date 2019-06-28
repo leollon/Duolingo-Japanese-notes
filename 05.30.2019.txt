@@ -20,7 +20,7 @@ kanji             hiragana              English
 
 hiragana          romaji              English
 
-しゅっしん　　　　　shusshin　　　　　　　      from 
+しゅっしん　　　　　shusshin　　　　　　　      from
 
 
 
@@ -45,7 +45,7 @@ hiragana          romaji              English
 
 かのじょたちはしまいです。　　　　　　　　　They　are sisters.
 
-わたしは（かれ/かのじょ）のおとうとです。　　　I am his/her younger brother.
+（ぼく/わたし）は（かれ/かのじょ）のおとうとです。　　　I am his/her younger brother.
 
 彼らは学生です。　　　　　　　　　　　　　They are students.
 
