@@ -1,0 +1,55 @@
+kanji             hiragana　　　　　　　　romaji                  English
+
+食堂　　　　　　　しょくどう              shokudou                cafeteria
+
+好き　　　　　　　すき　　　　　　　　　　suki                    like
+
+熱い　　　　　　　あつい　　　　　　　　　atsui                   hot
+
+冷たい　　　　　　つめたい　　　　　　　　tsumetai                cold
+
+肉　　　　　　　　にく　　　　　　　　　　niku                    meat
+
+卵　　　　　　　　たまご　　　　　　　　　tamago                  eggs
+
+
+
+
+
+
+
+まずいです。　　　　　　　　　　　　　      It tastes bad.
+
+これはまずいです。　　　　　　　　　　      This tastes bad.
+
+あの（椅子/テーブル）はいくらですか？　　   How much is that (chair/table)?
+
+英語でおねがいします。　　　　　　　　      Please speak English.
+
+ここは食堂です。　　　　　　　　　　　      This is a cafeteria.
+
+どの（机/椅子）ですか？　　　　　　　　　   Which (desk/chair) is it?
+
+食堂でお昼ご飯を食べます。　　      　      I eat lunch at the cafeteria.
+
+どのテーブルですか？　　　　　　　　　      Which table is it?
+
+日本語でおねがいします。　　　　　　　      Please speak Japanese.
+
+水が冷たいです。　　　　　　　　　　　      The water is cold.
+
+（水/肉）は好きじゃないです。　　　　　　   I do not like (water/meat).
+
+学校は好きですか？　　　　　　　　　　      Do you like school?
+
+（卵/ご飯）が好きです。　　　　　　　　　   I like eggs/rice.
+
+（ご飯/パン）が熱いです。　 　　　　　      The (rice/bread) is hot.
+
+冷たいご飯があります。　　　　　　　　      There is cold rice.
+
+お茶が冷たいです。　　　　　　　　　　　　　The tea is cold.
+
+野菜は好きじゃないです。　　　　　　　　　　I do not like vegetables.
+
+午前八時に朝ご飯を食べます。　　　　　　　　I eat breakfast at eight A.M.

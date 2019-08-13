@@ -1,25 +1,26 @@
-kanji              hiragana       English                            romaji
----------------------------------------------------------------------------
-子　　　　　　　　　こ　　　　　　 son
-母/お母さん　　     はは/おかさん   mother
+kanji              hiragana       　　　　　English                        romaji
+-----------------------------------------------------------------------------------
+子　　　　　　　　　こ　　　　　　 　　　　 son
 
-父/お父さん  　      ちち/おとうさん  father
+母/お母さん　　     はは/おかあさん   　　  mother                         haha/okaasann
 
-家族　　　　　　　 かぞく　　　　  family
+父/お父さん  　      ちち/おとうさん        father                         otousann
 
-子供/子ども　　　　 こども　　      child
+家族　　　　　　　 かぞく　　　　           family                        kazoku
 
-妹　　　　　　　　　いもと　　　　younger sister
+子供/子ども　　　　 こども　　              child                         kodomo
 
-両親　　　　　　　りょうしん　　　　parents                             ryoushinn
+妹　　　　　　　　　いもうと　　　          younger sister                imouto
 
-子どもたち　　　　　こどもたち　    children
+両親　　　　　　　りょうしん　　　　        parents                       ryoushinn
 
-元気　　　　　　　げんき　　　　　fine or good(healthy state)
+子どもたち　　　　　こどもたち　            children
 
-人　　　　　　　　にん　　　　　　person(as a unit)
+元気　　　　　　　げんき　　　　　          fine or good(healthy state)
 
-十人　　　　　　　じゅうにん　　　 ten persons
+人　　　　　　　　にん　　　　　　          person(as a unit)
+
+十人　　　　　　　じゅうにん　　　          ten persons
 
 
 

@@ -1,0 +1,44 @@
+kanji            katakana            hiragana            romaji            English
+                 ケーキ　　　　　　　けーき　　　　　　　ke-ki             cake
+嫌い　　　　　　 -　　　　　　　　　 きらい　　　　　　　kirai             hate/do(es) not like
+辛い　　　　　　 -　　　　　　　　　 からい　　　　　　　karai             spicy
+高い　　　　　　 -                   たかい　　　　　　　takai             expensive
+安い　　　　　　 -                   やすい　　　　　　　yasui             inexpensive
+-                レストラン　　　　　れすとらん　　　　　resutorann        restaurant
+
+
+
+
+甘いパンを食べます。　　　　　　　　　      I eat sweet bread.
+
+（魚/ケーキ）が嫌いです。　　　　　　       I do not like (fish/cake).
+
+このご飯は甘いです。　　　　　　　　　      This rice is sweet.
+
+ケーキは甘いですか？　　　　　　　　　      Is the cake sweet?
+
+このケーキはおいしいです。　　　　　　      This cake is delicious.
+
+高い肉を食べます。　　　　　　　　　　      I eat expensive meat.
+
+高いです。　　　　　　　　　　　　　　      It is expensive.
+
+このご飯は辛いです。　　　　　　　　　      This rice is spicy.
+
+肉は高いです。　　　　　　　　　　　　      Meat is expensive.
+
+この椅子は安いです。　　　　　　　　　      This chair is inexpensive.
+
+からいですか？　　　　　　　　　　　　      Is it spicy?
+
+野菜は安いです。　　　　　　　　　　　      Vegetables are inexpensive.
+
+あれは安いですか？　　　　　　　　　　      Is that cheap?
+
+レストランにテーブルはいくつありますか？    How many tables are in the restaurant?
+
+メニューをください？　　　　　　　　　　　　Can I get a menu?
+
+レストランはどこですか？　　　　　　　　　　Where is the restaurant?
+
+これはメニューですか？　　　　　　　　　　　Is this a menu?

@@ -10,7 +10,7 @@ kanji         hiragana　　　　　　romaji　　　　　　　　katakana  
 
 甘い　　　　　あまい　　　　　　　amai                                        sweet
 
-安い　　　　　やすい　　　　　　　yasui
+安い　　　　　やすい　　　　　　　yasui                                       inexpensive, cheap
 
 　　　　　　　ゆ　　　　　　　　　yu                    ユ
 

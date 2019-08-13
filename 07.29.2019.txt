@@ -1,0 +1,70 @@
+katakana            kanji              hiragana             romaji　　　　　　　English
+                    働き　　　　　　　 はたらき　　　　　　 hataraki　　　　　　work(v)
+                    時間　　　　　　　 じかん　　　　　　　 jikann              time
+                    来　　　　　　　　 き　　　　　　　　　 ki                  come
+                    仕事　　　　　　　 しごと　　　　　　　 shigoto             work(n)
+                    事　　　　　　　　 こと　　　　　　　　 koto
+                    パーティー　　　　 　　                                     party
+                    買い　　　　　　　 かい　　　　　　　　 kai                 buy
+                    今日　　　　　　　 きょう　　　　　　　 kyou　　　　　　　　today
+                    昨日　　　　　　　 きのう　　　　　　　 kynou               yesterday
+                    勉強　　　　　　　 べんきょう　　　　　 bennkyou            study
+アメリカ　　　　　　　　　　　　　　　 あめりか　　　　　　 amerika             American/America
+
+
+
+
+
+
+彼らは何時間働きますか？　　　　　　　　How many hours do they work?
+
+誰が来ますか？　　　　　　　　　　　　　Who is coming?
+
+彼はいつ来ますか？　　　　　　　　　　　When will he come?
+
+朝ご飯の時間ですよ。　　　　　　　　　　It is time for breakfast, you know?
+
+彼女はいつ働きますか？　　　　　　　　　When does she work?
+
+彼女は来ますか？　　　　　　　　　　　　Will she come?
+
+三十一時間働きます。　　　　　　　　　　I work for thirty one hours.
+
+椅子は買いません。　　　　　　　　　　　I will not buy chairs.
+
+いつ（勉強/仕事）をしますか？　　　　　 When do you study/work?
+
+今日はパーティーをします。　　　　　　　I will have party today.
+
+何を買いますか？　　　　　　　　　　　　What will buy?
+
+お仕事は？　　　　　　　　　　　　　　　What is your job?
+
+今日はをしますか？　　　　　　　　　　　What will we do today?
+
+仕事が好きです。　　　　　　　　　　　　I like to work.
+
+仕事と勉強が好きです。　　　　　　　　　I like to work and study.
+
+テーブルを買います。　　　　　　　　　　I will buy a table.
+
+パーティーが好きです。　　　　　　　　　I like parties.
+
+マリアさんはいつ日本に来ましたか？　　　When did Maria come to Japan？
+
+昨日はパーティーをしました。　　　　　　Yesterday I had a party.
+
+昨日は仕事ました。　　　　　　　　　　　Yesterday I worked.
+
+今日は勉強しません。　　　　　　　　　　I will not study today.
+
+昨日は何をしましたか？　　　　　　　　　What did you do yesterday?
+
+昨日は勉強しませんでした。　　　　　　　I did not study yesterday.
+
+今日は勉強しません。　　　　　　　　　　I will not study today.
+
+アメリカの高校で勉強します。　　　　　　I study at American high school.
+
+昨日はパーティーをしませんでした。　　　I did not have party yesterday.
+

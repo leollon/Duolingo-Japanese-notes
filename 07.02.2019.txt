@@ -1,0 +1,41 @@
+hiragana 　　　 　kanji          romaji              English
+
+えん              円　　　　　　 enn                 yen
+
+ひゃく　　　　　　百　　　　　　 hyaku               hundred
+
+ばん　　　　　　　晩　　　　　　 bann
+
+あさ　　　　　　　朝　　　　　　 asa
+
+あさごはん　　　　朝ご飯　　　　 asagohann           breakfast
+
+ひるごはん　　　　昼ご飯         hirugohann          lunch
+
+ばんごはん　　　　晩ご飯　　　　 banngohann          dinner
+
+めにゅうー　　　　ｘ　　　　　　 menyu-              menu
+
+おいしい　　　　　美味　　　　　 oishii              delicious
+
+
+いくらですか。　　　　　　　　　　　　　How much is it?
+
+これ/あれはいくらですか。　　　　　　　How much is this/that?
+
+一万円です。　　　　　　　　　　　　　It is ten thousan yen.
+
+一万千百円です。　　　　　　　　It is 11100 yen.
+
+そのめんにゅー。　　　　　　　　That menu.
+
+この晩ご飯はおいしいです。　　　This dinner is delicious.
+
+このお昼ご飯はおいしいです。　　This lunch is delicious.
+
+この朝ご飯はおいしいです。　　　This breakfast is delicious.
+
+午後七時に晩ご飯を食べます。　　I eat dinner at seven P.M.
+
+朝ご飯を食べます。　　　　　　　I eat breakfast.
+

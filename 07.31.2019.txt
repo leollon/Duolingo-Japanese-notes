@@ -1,0 +1,32 @@
+kanji            hiragana                romaji              English
+曜日　　　　　　 ようび　　　　　　　　　youbi
+友達　　　　　　 ともだち　　　　　　　　tomodachi           friends
+話　　　　　　　 はなし　　　　　　　　　hanashi             speak
+金曜日　　　　　 きんようび　　　　　　　ginnytoubi          Friday
+土曜日　　　　　 どようび　　　　　　　　doyoubi             Saturday
+日曜日　　　　　 にちようび　　　　　　　nichiyoubi          Sunday
+明日　　　　　　 あす　　　　　　　　　　asu                 tomorrow
+明日　　　　　　 あした　　　　　　　　　ashita              tomorrow
+忙しい　　　　　 いそがしい　　　　　　　isogashii           busy
+
+
+
+
+
+英語を話します。　　　　　　　　　　　　I speak English.
+英語は話しますん。　　　　　　　　　　　I do not speak English.
+彼は私の友達です。　　　　　　　　　　　He is my friend.
+友達と話します。　　　　　　　　　　　　I talk with my friend.
+日曜日は何日ですか？                    What is the date on Sunday?
+（彼女/彼）とは話しません。　　　　　　 I do not talk to (her/him).
+日曜日は友達と勉強します。　　　　　　　I study with my friend on Sunday.
+日本語は話しますか？　　　　　　　　　　Do you speak Japanese?
+金曜日にパーティーをしました。　　　　　I had a party on Friday.
+明日は何をシますか？　　　　　　　　　　What will you do tomorrow?
+あしたは友達とパーティーをします。　　　I will have a party with my friend.
+あしたはいそがしです。　　　　　　　　　I will be busy tomorrow.
+土曜日は忙しいです。　　　　　　　　　　I am busy on Saturday.
+明日、学校へ行きます。　　　　　　　　　Tomorroｗ, I will go to school.
+忙しいですか？　　　　　　　　　　　　　Are you busy?
+明日、日本に行きます。　　　　　　　　　I will go to Japan tomorrow.
+土曜日に働きます。　　　　　　　　　　　I work on Saturday.

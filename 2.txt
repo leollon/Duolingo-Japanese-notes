@@ -36,7 +36,7 @@ words:
 はれ　　➖＞　sunny
 くもり　➖＞　cloudy
 
-ひる　　➖＞　daytime
+ひる　　➖＞　daytime               昼(kanji)
 よる　　➖＞　night
 
 いぬ　　➖＞　dog

@@ -1,0 +1,34 @@
+kanji            hiragana           　romaji             English
+月曜日　　　　　 げつようび　　　　 　getsuyoubi         Monday
+火曜日　　　　　 かようび　　　　　　 kayoubi            Tuesday
+水曜日　　　　　 すいようび　　　　　 suiyoubi           Wednesday
+木曜日　　　　　 もくようび　　　　　 mokuyoubi          Thursday
+金曜日　　　　　 きんようび　　　　　 kinnyoubi          Friday
+土曜日　　　　　 どようび　　　　　　 doyoubi            Saturday
+日曜日　　　　　 にちようび　　　　　 nichiyoubi         Sunday
+明後日　　　　　 みょうごにち　　　　 myogonichi         tomorrow
+平日　　　　　　 へいじつ　　　　　　 heijitsu           weekday(s)
+週末　　　　　　 しゅうまつ　　　　　 shuumatsu          weekend(s)
+一昨日　　　　　 おととい　　　　　　 ototoi             the day before yesterday
+一昨日　　　　　 いっさくじつ　　　　 issakujitsu        the day before yesterday
+明後日　　　　　 あさって　　　　　　 asatte　　　　　　 the day after tomorrow
+　　　　　　　　 から　　　　　　　　 kara               from
+
+
+
+月曜日は忙しです。　　　　　　　　　　　　　I am busy on Monday.
+明後日、勉強します。　　　　　　　　　　　　I will study the day after tomorrow.
+水曜日はレストランに行きます。　　　　　　　I am going to a restaurant on Wednesday.
+火曜日は忙しです。　　　　　　　　　　　　　I am busy on Tuesday.
+あさっては何をしますか？　　　　　　　　　　What will you do the day after tomorrow?
+（何月/なんがつ）ですか？　　　　　　　　　 What month is it?
+水曜日と金曜日に留学生が来ました。　　　　　Foreign exchange students came on Wednesday and Friday.
+火曜日は勉強します。　　　　　　　　　　　　I will study on Tuesday.
+平日は忙しいですか？　　　　　　　　　　　　Are you busy on weekdays?
+おとといはパーティーをしました。　　　　　　I had a party the day before yesterday.
+一昨日は何をシましたか？　　　　　　　　　　What did you do the day before yesterday?
+中国から来ました。　　　　　　　　　　　　　I am from China.
+月曜日から金曜日まで仕事をします。　　　　　I work from Monday to Friday.
+はい、週末は忙しいです。　　　　　　　　　　Yes, I am busy on weekends.
+さようなら、今まで魚をありがとう。　　　　　Farewell, thanks for the fish until now.
+
