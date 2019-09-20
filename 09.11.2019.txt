@@ -1,0 +1,14 @@
+kanji               hiragana               romaji                 English
+冷蔵庫　　　　　　　れいぞうこ　　　　　　 reizouko               refrigerator
+鏡　　　　　　　　　かがみ　　　　　　　　 kagami                 mirror
+下　　　　　　　　　した　　　　　　　　　 shita                  beneath/below
+高い　　　　　　　　たかい　　　　　　　　 takai                  expensive
+
+
+
+新しい冷蔵庫です。　　　　　　　　　　　　It is a new refrigerator.
+鏡は（新しい / 古い）です。　　　　　　　 The mirror is (new / old)。
+あの冷蔵庫は新しいです。　　　　　　　　　That refrigerator is new.
+布団は鏡の下にあります。　　　　　　　　　The futon is beneath the mirror.
+隣のレストランは美味しいです。　　　　　　The restaurant next door is delicious.
+

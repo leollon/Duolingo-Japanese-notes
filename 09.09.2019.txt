@@ -1,0 +1,18 @@
+kanji                hiragana              romaji                  English
+長い　   　 　　　　 ながいです　　　　　　nagai                   long
+布団　　　　　　　　 ふとん　　　　　　　　futonn                  futon
+起き　　　　　　　　 おき　　　　　　　　　oki                     wake up / get up
+片　　　　　　　     かた    　　　　　　　kata                    corner
+　　　　　　　　　　
+　
+
+
+彼女の本はちょっと長いです。　　　　　　　　　　　　Her book is a little long.
+布団の中で起きます。　　　　　　　　　　　　　　　　I wake up on my futon.
+あのすみには本棚があります。　　　　　　　　　　　　There is a bookshelf in that corner.
+ベッドは片すみにあります。                          The bed is in the corner.
+そのテーブルは長いです。　　　　　　　　　　　　　　The bed is long.
+この本は長いです。　　　　　　　　　　　　　　　　　This book is long.
+布団は片すみにあります。　　　　　　　　　　　　　　The futon is in the corner.
+布団は長いです。　　　　　　　　　　　　　　　　　　The futon is long.
+

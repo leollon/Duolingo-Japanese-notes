@@ -1,0 +1,31 @@
+kanji                   hiragana                    romaji                       English
+小さい　　　　　　　　　ちいさい　　　　　　　　　　chiisai                      Small
+大きい　　　　　　　　　おおきい　　　　　　　　　　ookii                        Big
+十冊　　　　　　　　　　じゅっさつ　　　　　　　　　jussatsu                     counter for books
+ベッド　　　　　　　　　べっど　　　　　　　　　　　beddo                        bed
+-                       うちにい                    uchinii                      at home
+本棚　　　　　　　　　　ほんたな　　　　　　　　　　hontana                      bookshelf
+-                       うち　　　　　　　　　　　　uchi                         our
+
+
+
+
+
+本が十冊あります。　　　　　　　　　　　　　　　There are ten books.
+このベッドは（小さい/大さい）です。 　　　　　　This bed is small/big.
+本が本棚に七冊あります。　　　　　　　　　　　　There are seven books on the bookshelf.
+昨日はうちにいました。　　　　　　　　　　　　　I am stayed at home yesterday.
+お父さんは今うちにいません。　　　　　　　　　　My father is not at home now.
+うちの家族は大さいです。　　　　　　　　　　    Our family is big.
+机の上に本が三冊あります。　　　　　　　　　　　There are three books on the bookshelf.
+小さいベッドですね。　　　　　　　　　　　　　　It is a small bed, isn't it?
+うちの台所は大きいです。　　　　　　　　　　　　Our kitchen is big.
+前と後ろには妹たちがいます。　　　　　　　　　　My younger sisters are in front of and behind me.
+左下にあります。　　　　　　　　　　　　　　　　It is on the bottom left.
+テーブルのよこに椅子が一つあります。　　　　　　There is a chair next to the table.
+
+
+
+
+
+

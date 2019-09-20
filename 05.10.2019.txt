@@ -1,24 +1,24 @@
-一つ　　　　　　　　　　　one thing
+一つ　　　　ひとつ　　　one thing
 
-二つ　　　　　　　　　　　two things
+二つ　　　　ふたつ　　　two things
 
-三つ　　　　　　　　　　　three things
+三つ　　　　みっつ　　　three things
 
-四つ　　　　よつ　　　　　four things
+四つ　　　　よつ　　　　four things
 
-五つ　　　　　　　　　　　five things
+五つ　　　　いつつ　　　five things
 
-六つ　　　　　むつ　　　　six things
+六つ　　　　むつ　　　　six things
 
-八つ　　　　　やつ　　　　eight things
+八つ　　　　やつ　　　　eight things
 
-九つ　　　　　ここのつ　　nine things
+九つ　　　　ここのつ　　nine things
 
-椅子　　　　　いす　　　　chair
+椅子　　　　いす　　　　chair
 
-机　　　　　　つくえ     　　desk
+机　　　　　つくえ  　　desk
 
-に　　　　　　　　　　　　in/to/at/indicate the subject
+に　　　　　　　　　　　in/to/at/indicate the subject
 
 
 

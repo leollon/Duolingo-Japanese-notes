@@ -1,0 +1,11 @@
+kanji               hiragana            romaji                  English
+-                   またね　　　　　　　matane                  Bye
+-                   どうぞ　　　　　　　douzo                   please
+間                  あいだ　　　　　　　aida                    between
+
+
+どういたしまして。　　　　　　　　　　You are welcome.
+よろしく。こちらこそ。　　　　　　　　Nice to meet you.Likewise.
+こちらこそありがとうございます。　　　Thank you to you as well.
+どうぞよろしくおねがいします。　　　　Please take of me.
+部屋のすみに鏡があります。　　　　　　There is a mirror in the corner of the room.

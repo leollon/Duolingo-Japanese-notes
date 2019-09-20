@@ -1,0 +1,24 @@
+kanji             hiragana            English
+本　　　　　　　　ほん　　　　　　　　book
+間　　　　　　　　ま　　　　　　　　　between
+- 　　　　　　　　ちょっと。　　　　　a little
+中　　　　　　　　なか　　　　　　　　inside
+
+
+
+
+椅子はその下です。　　　　　　　　　　　　　The chair is below that。
+左下にあります。　　　　　　　　　　　　　　It is no the bottom　left.
+椅子はテーブルーの上です。　　　　　　　　　The chair is on the table.
+その本を買いませんでした。　　　　　　　　　I did not buy that book.
+母と父の間に私がいます。                    I am between my mother and father.
+明日はちょっと忙しいです。　　　　　　　　　I am a little busy tomorrow.
+レストランの中で食べます。　　　　　　　　　I eat inside the restaurant。
+私は本が好きです。　　　　　　　　　　　　　I like books。
+中に兄がいます。　　　　　　　　　　　　　　My brother is inside place.
+本は机の上にあります。　　　　　　　　　　　The book is on the desk.
+ちょっと働きます。　　　　　　　　　　　　　I work a little bit.
+レストランの外で食べます。　　　　　　　　　I eat outside the restaurant.
+本を買いました。　　　　　　　　　　　　　　I bought a book.
+父と母の間で食べます。　　　　　　　　　　　I eat between my father and mother.
+外に姉がいます。　　　　　　　　　　　　　　My sister is outside.

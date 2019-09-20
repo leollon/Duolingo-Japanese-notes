@@ -1,0 +1,6 @@
+kanji             　 hiragana                   English            romaji
+右　　　　　　　　　 みぎ　　　　　　　　　　　 right              migi
+左　　　　　　　　　 ひだり　　　　　　　　　　 left               hidari
+下　　　　　　　　　 した/げ　　 　　　　　　　 down               shita/ge
+上　　　　　　　　　 うえ　　　　　　　　　　　 up                 ue
+

@@ -1,0 +1,17 @@
+kanji               katakana               hiragana                 romaji                     English
+古い　              -　　　 　　　　　　　 ふるい　　　　　　　　　 furui                      old
+新しい　　　　　　　-     　　　　         あたらしい　　　　　　　 atarashii                  new
+低い　　　　　　    -　　　           　 　ひくい　　　　　　　　　 hikui                      low
+- 　　　　　　    　テレビ                 てれび                   terebi                     television
+
+
+
+兄はテーブルのよこにいます。　　　　　　　　　　　　My older brother is next to the table.
+うちの本棚は小さいです。　　　　　　　　　　　　　　Our bookshelf is small.
+その椅子は低いです。　　　　　　　　　　　　　　　　That chair is low.
+ベッドは古いです。　　　　　　　　　　　　　　　　　The bed is old.
+あのテレビは新しいです。　　　　　　　　　　　　　　That TV is new.
+彼のベッドは低いです。　　　　　　　　　　　　　　　His bed is low.
+古いテレビです。　　　　　　　　　　　　　　　　　　It is an old TV.
+この布団は新しいです。　　　　　　　　　　　　　　　This futon is new.
+

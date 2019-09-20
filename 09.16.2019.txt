@@ -1,0 +1,7 @@
+kanji                   hiragana                   romaji                     English
+飲み　　　　　　　　　　のみ　　　　　　　　　　　 nomi                       drink
+
+
+
+どれを飲みますか。　　　　　　　　　　　Which will you dringk?
+

@@ -1,0 +1,5 @@
+kanji               hiragana                romaji                   English
+-                   どうぞ　　　　　　　　　douzo                    Here you are/please
+一分　　　　　　　　いっぷん　　　　　　　　ippunn                   one minute
+
+
